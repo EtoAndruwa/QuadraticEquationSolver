@@ -54,31 +54,7 @@ void INPUT_ABC(int* a, int* b, int* c)
            scanf("%d%d%d", a, b, c);
     }
 
-/*void PRINT_REQ(int coef)
-    {
-        printf("A:%d\n", a);
-    }*/
 
-/*int NUM_OF_ROOTS(int a, int b, int c)
-    {
-       if (A == 0 && B == 0 && C == 0)
-        {
-
-        }
-       if (A > 0 && B > 0 && C > 0)
-        {
-
-        }
-    }
-
-void PRINT_NUM_OF_ROOTS(int x)
-    {
-        int num = 0;
-
-        num = x;
-
-        printf("Number of roots: %d", num);
-    } */
 
 
 
